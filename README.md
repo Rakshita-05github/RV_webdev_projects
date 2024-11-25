@@ -21,6 +21,6 @@ This is a basic project using html and css
 
 This is a Interior Website project using html and css
 
--Project:[Project Solution](https://rakshita-05github.github.io/RV_webdev_projects/Project/techpro.html)
+-Project:[Project Solution](https://rakshita-05github.github.io/RV_webdev_projects/InteriorProject.html)
 
 
