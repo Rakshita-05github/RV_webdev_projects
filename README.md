@@ -18,3 +18,9 @@ This is a simple calculator developed by myself by gaining some knowledge from t
 This is a basic project using html and css
 
 -Project:[Project Solution](https://rakshita-05github.github.io/RV_webdev_projects/Project/techpro.html)
+
+This is a Interior Website project using html and css
+
+-Project:[Project Solution](https://rakshita-05github.github.io/RV_webdev_projects/Project/techpro.html)
+
+
